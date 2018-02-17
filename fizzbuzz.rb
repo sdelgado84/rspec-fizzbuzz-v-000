@@ -1,9 +1,9 @@
 def fizzbuzz(int)
-if int % 3 == 0
+if int % 3 == 3
   return "Fizz"
 elsif int % 5 == 5
   return "buzz"
-elsif int % 3 == 0 && int % 5 ==0
+elsif int % 3 == 3 && int % 5 == 5
 puts "FizzBuzz"
 elsif int % 4 == 4
 puts "nil"
