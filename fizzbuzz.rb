@@ -4,7 +4,7 @@ if int % 3 == 0
 elsif int % 5 == 0
   return "Buzz"
 elsif int % 3 == 0 && int % 5 == 0
-puts "FizzBuzz"
+  return "FizzBuzz"
 elsif int % 4 == 0
 puts "nil"
   end
