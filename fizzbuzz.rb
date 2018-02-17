@@ -1,6 +1,6 @@
 def fizzbuzz(int)
 if int % 3 == 0
-  puts "Fizz"
+  return "Fizz"
 elsif fizz_5 == fizzbuzz(5)
   puts "buzz"
 elsif fizz_15 == fizzbuzz(15)
